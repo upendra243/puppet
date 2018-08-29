@@ -1,4 +1,5 @@
-# puppet
+# Master less puppet configration
+
 Master less puppet configration tutorial
 # Steps for basic Configration
 
